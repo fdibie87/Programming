@@ -1,0 +1,12 @@
+
+Book Recommendation System for a Library 
+
+Menu:
+1. Search by Genre
+2. Search by Author
+3. Search by Rating
+4 Search by book Name
+5. Search Favourite Book Title
+6. Exit Program
+
+Enter the number you want to search by: 
